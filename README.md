@@ -41,7 +41,7 @@ You can know more about me on my social networks:
 
 <div>
   <img src ="./img/nodejs.svg" alt="Node logo" width="5%" title='Nodejs'/>
-  <img src ="./img/mysql.svg" alt="mysql logo" width="5%" title='MYSQL'/>
+  <img src ="./img/mysql.svg" alt="mysql logo" width="4%" title='MYSQL'/>
 </div>
 
 ### My upcoming challenges
@@ -53,9 +53,9 @@ You can know more about me on my social networks:
 ### Tools
 
 <div>
-  <img src ="./img/figma.svg" alt="Figma logo" width="5%" title='Figma'/>
+  <img src ="./img/figma.svg" alt="Figma logo" width="3%" title='Figma'/>
   <img src ="./img/visual-studio-code.svg" alt="VS Code logo" width="5%" title='Visual Studio Code'/>
-  <img src ="./img/git.svg" alt="Git logo" width="5%" title='Git'/>
+  <img src ="./img/git.svg" alt="Git logo" width="7%" title='Git'/>
 </div>
 
 
