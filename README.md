@@ -58,6 +58,9 @@ You can know more about me on my social networks:
   <img src ="./img/git.svg" alt="Git logo" width="7%" title='Git'/>
 </div>
 
+### My stats
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CRIS-117&layout)](https://github.com/CRIS-117/github-readme-stats)
 
 
 
